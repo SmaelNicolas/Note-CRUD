@@ -77,7 +77,7 @@ DATABASE_URL="postgres://smaelnico:GfHjY0XfCgSYr4F3JwjUthxPP9vaQ3HB@dpg-cjofa83g
 ```
 
 ```bash
-# Go back to root folder githubSmaelNicolas-ensolvers-challenge
+# Go back to root folder
 ```
 
 ```bash
