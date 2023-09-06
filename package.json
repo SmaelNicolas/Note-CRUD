@@ -1,0 +1,12 @@
+{
+	"name": "notes-app",
+	"version": "1.0.0",
+	"scripts": {
+		"app": "concurrently \"cd backend && npm install && npm run dev\" \"cd frontend && npm install && npm run dev\""
+	},
+	"author": "Smael Nicolas",
+	"license": "ISC",
+	"devDependencies": {
+		"concurrently": "^8.2.1"
+	}
+}
