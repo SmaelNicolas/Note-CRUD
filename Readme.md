@@ -54,7 +54,7 @@ volumes:
 
 ```bash
 # clone this proyect
-git clone https://github.com/ElianaPranzetti/githubSmaelNicolas-ensolvers-challenge.git
+git clone https://github.com/SmaelNicolas/Note-CRUD.git
 ```
 
 ```bash
